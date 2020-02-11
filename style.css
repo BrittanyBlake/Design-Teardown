@@ -23,7 +23,6 @@ nav a:hover{
     background-color: #787878;
 }
 
-
 .latest-articles{
     display:grid;
     grid-template-columns: 1fr 1fr;
@@ -40,6 +39,7 @@ nav a:hover{
 
 .latest-articles h1, h3{
     color: lightgrey;
+    padding-left: 30px;
 }
 
 .article-one{
@@ -186,4 +186,54 @@ nav a:hover{
 
 .ethical .color{
     color: lightgrey;
+}
+
+ .second-content{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(4, 150px);
+    background-color: #B4B4B4;
+    padding-top: 50px;
+    padding-left: 50px;
+    grid-column-gap: 50px;
+}
+
+.person{
+    grid-column: 1/span 2;
+    grid-row: 1;
+    padding-left: 250px;
+    padding-right: 100px;
+}
+
+.avoiding{
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.html-quote{
+    grid-column: 2;
+    grid-row:2;
+}
+
+.css-attribute{
+    grid-column: 1;
+    grid-row:3;
+}
+
+.chrome{
+    grid-column: 2;
+    grid-row:3;
+}
+
+.subfont{
+    grid-column: 1;
+    grid-row:4;
+}
+.more{
+    font-size: 12px;
+    text-align: right;
+}
+
+.second-content h3{
+    color: black;
 }
