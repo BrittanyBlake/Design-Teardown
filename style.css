@@ -80,3 +80,85 @@ nav a:hover{
     flex-wrap: wrap;
     background-color: #7A7A7A;
 }
+
+.content-bar{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: repeat (4, 500px);
+    grid-row-gap: 50px;
+    grid-column-gap: 20px;
+    padding-top: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 32px;
+    background-color: #B4B4B4; 
+    justify-content: center;  
+}
+
+.content-bar .content1{
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.content-bar .content2{
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.content-bar .content3{
+    grid-column: 3;
+    grid-row: 1;
+}
+
+.content-bar .content4{
+    grid-column: 1;
+    grid-row: 2;
+    font-size: 12px;
+    font-style: italic;
+    display: flex;
+    justify-content: center ;
+}
+
+.content-bar .content5{
+    grid-column: 2;
+    grid-row: 2;
+    background-color: #787878;
+    padding: 20px;
+}
+
+.content-bar .content6{
+    grid-column: 3;
+    grid-row: 2;
+}
+
+.content-bar .content7{
+    grid-column: 1;
+    grid-row: 3;
+}
+
+.content-bar .content8{
+    grid-column: 2;
+    grid-row: 3;
+}
+
+.content-bar .content9{
+    grid-column: 3;
+    grid-row: 3;
+}
+
+.content-bar .advert{
+    grid-column: 1/span 3;
+    grid-row: 4;
+    width: 1200px;
+    height: 400px;
+    border: 2px solid grey;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 75px;
+    padding-left: 300px;
+    padding-right: 300px;
+    background-color: #787878;
+    border-radius: 7px;
+}
