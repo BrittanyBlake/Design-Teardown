@@ -6,7 +6,6 @@
 
 nav {
   display: inline-flex;
-  margin-left: 10px;
   background-color: #B4B4B4;
   padding: 25px;
   width:1430px;
@@ -29,7 +28,6 @@ nav a:hover{
     display:grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows:repeat(2, 500px);
-    margin-left: 10px;
 }
 
 .articles{
@@ -161,4 +159,31 @@ nav a:hover{
     padding-right: 300px;
     background-color: #787878;
     border-radius: 7px;
+}
+
+.content-bar .see-all{
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    grid-column: 2;
+}
+
+.ethical{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:700px;
+    padding-left: 300px;
+    padding-right: 300px;
+    line-height: 40px;
+    background-color: #808080;
+}
+
+.ethical p{
+    text-align: center;
+}
+
+.ethical .color{
+    color: lightgrey;
 }
