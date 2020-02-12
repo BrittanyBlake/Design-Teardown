@@ -217,12 +217,12 @@ nav a:hover{
     grid-row:2;
 }
 
-.css-attribute{
+.css-attribute {
     grid-column: 1;
     grid-row:3;
 }
 
-.chrome{
+.chrome {
     grid-column: 2;
     grid-row:3;
 }
@@ -231,11 +231,42 @@ nav a:hover{
     grid-column: 1;
     grid-row:4;
 }
-.more{
-    font-size: 12px;
-    text-align: right;
-}
 
 .second-content h3{
     color: black;
+}
+
+.design-systems {
+    height: 200px;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-right: 400px;
+    background-color: #787878;
+}
+
+.guides {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: repeat(2, 300px);
+    padding-left: 100px;
+    background-color: #B4B4B4; 
+}
+
+.guides h3{
+    padding-left: -50px;
+}
+
+.guides .guide1, .guide2, .guide3, .guide4, .guide-advert {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    line-height: 25px;
+}
+
+.guides .guide-advert{
+    grid-column: 2/ span 2;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #787878;
 }
