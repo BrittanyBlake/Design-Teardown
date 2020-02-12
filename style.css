@@ -305,6 +305,10 @@ h3 {
   border: 1px solid black;
 }
 
+footer p{
+  text-align: center;
+  margin-left: -25px;
+}
 .footer-list {
   word-spacing: 10px;
 }
