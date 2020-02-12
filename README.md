@@ -23,13 +23,13 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-## Brittany Blake
+👤 **Brittany Blake**
 
--Github: [@BrittanyBlake](https://github.com/BrittanyBlake)
--Twitter: [@bbcodes_](https://twitter.com/bbcodes_)
--Linkedin: [Brittany Blake](https://www.linkedin.com/in/brittany-blake-843951109/)
+- Github: [@BrittanyBlake](https://github.com/BrittanyBlake)
+- Twitter: [@bbcodes_](https://twitter.com/bbcodes_)
+- Linkedin: [Brittany Blake](https://www.linkedin.com/in/brittany-blake-843951109/)
 
-## Ritta Buyaki
+👤 **Ritta Buyaki**
 
 -Github: [@Buyaki01](https://github.com/Buyaki01)
 -Twitter: [@BuyakiRitta](https://twitter.com/BuyakiRitta)
