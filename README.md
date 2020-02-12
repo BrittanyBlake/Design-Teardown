@@ -31,9 +31,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Ritta Buyaki**
 
--Github: [@Buyaki01](https://github.com/Buyaki01)
--Twitter: [@BuyakiRitta](https://twitter.com/BuyakiRitta)
--Linkedin: [Ritta Buyaki](https://www.linkedin.com/in/ritta-buyaki-b12904128/)
+- Github: [@Buyaki01](https://github.com/Buyaki01)
+- Twitter: [@BuyakiRitta](https://twitter.com/BuyakiRitta)
+- Linkedin: [Ritta Buyaki](https://www.linkedin.com/in/ritta-buyaki-b12904128/)
 
 ## 🤝 Contributing
 
