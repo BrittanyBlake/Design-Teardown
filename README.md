@@ -1,14 +1,14 @@
 # Design-Teardown
 
 # What it does
-In this project, we created a grayscale heat map of the website for Smashing Magazine. The goal of this project was to indicate the elements with the greatest weight in the visual hierarchy.
+In this project, we created a grayscale heat map of the website for <a href="https://www.smashingmagazine.com"> Smashing Magazine</a>. The goal of this project was to indicate the elements with the greatest weight in the visual hierarchy.
 
 ## Built With
 - HTML
 - CSS
 #### and deployed to Github
 
-![demopage](img/demopage.png)
+![demopage](images/design-teardown.png)
 
 ## Live Demo
 
@@ -23,17 +23,17 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-## Author1
+## Brittany Blake
 
-Github: @BrittanyBlake
-Twitter: @bbcodes_
-Linkedin: Brittany Blake
+-Github: [@BrittanyBlake](https://github.com/BrittanyBlake)
+-Twitter: [@bbcodes_](https://twitter.com/bbcodes_)
+-Linkedin: [Brittany Blake](https://www.linkedin.com/in/brittany-blake-843951109/)
 
-## Author2
+## Ritta Buyaki
 
-Github: @Buyaki01
-Twitter: @BuyakiRitta
-Linkedin: https://www.linkedin.com/in/ritta-buyaki-b12904128/
+-Github: [@Buyaki01](https://github.com/Buyaki01)
+-Twitter: [@BuyakiRitta](https://twitter.com/BuyakiRitta)
+-Linkedin: [Ritta Buyaki](https://www.linkedin.com/in/ritta-buyaki-b12904128/)
 
 ## 🤝 Contributing
 
