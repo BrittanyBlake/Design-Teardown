@@ -12,7 +12,7 @@ In this project, we created a grayscale heat map of the website for <a href="htt
 
 ## Live Demo
 
-[Live Demo](https://dazzling-aryabhata-a680c0.netlify.com/)
+[Live Demo](https://brittanyblake.github.io/Design-Teardown/)
 
 ## Getting Started
 
