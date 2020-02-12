@@ -2,13 +2,15 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  border: 1px solid lightgray;
 }
 
 nav {
   display: inline-flex;
   background-color: #B4B4B4;
   padding: 25px;
-  width:1430px;
+  width: 100%;
+  justify-content: space-evenly;
   
 }
 
