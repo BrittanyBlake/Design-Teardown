@@ -184,6 +184,11 @@ h3 {
   border: 1px solid black;
 }
 
+footer p {
+  text-align: center;
+  margin-left: -25px;
+}
+
 .ethical p {
   text-align: center;
 }
@@ -284,7 +289,7 @@ h3 {
 }
 
 .guides .see-all-articles {
-  grid-column: 1/ span 3;
+  grid-column: 1 / span 3;
   grid-row: 3;
   font-size: 12px;
   display: flex;
@@ -294,7 +299,7 @@ h3 {
 
 .footer {
   line-height: 30px;
-  grid-column: 1/span 3;
+  grid-column: 1 / span 3;
   grid-row: 4 / span 2;
   display: flex;
   align-items: center;
@@ -305,10 +310,6 @@ h3 {
   border: 1px solid black;
 }
 
-footer p{
-  text-align: center;
-  margin-left: -25px;
-}
 .footer-list {
   word-spacing: 10px;
 }
